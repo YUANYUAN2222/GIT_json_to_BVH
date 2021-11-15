@@ -55,16 +55,17 @@ Joint number -> Joint name <br/>
 * anaconda 
 * python 3.7
 # Visualization Case 
-## advantages 
+## Advantages 
 Existing datasets usually store activity as a separate file. However, many files have different enclosures, resulting in many labeled files having more than one activity and only having a rough tag.
 
-### CMU dataset 
-sample subject01-01(http://mocap.cs.cmu.edu/search.php?subjectnumber=1), rough tag: forward jump turn around.
-<img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/1636966822(1).jpg" >  
-left gif subject 01-01<br/>
-right gif Jump1：1-248,Turn1:240-295,Jump2:295-480,Turn2:480-530,Jump3:530-668 <br/>
+## CMU dataset 
+Sample subject01-01(http://mocap.cs.cmu.edu/search.php?subjectnumber=1), rough tag: forward jump turn around.
+<img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/1636967124(1).png" >  
 
-<img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/%E5%9B%BE%E7%89%874.gif" width="400" height="220" >    <img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/%E5%9B%BE%E7%89%873.gif" width="400" height="220">
+<img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/%E5%9B%BE%E7%89%874.gif" width="400" height="220" >    <img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/%E5%9B%BE%E7%89%873.gif" width="400" height="220"> <br/>
+* Left picture showed the total frame motion: 1-668<br/>
+* Right picture shows the enclosured frame motion.Jump1：1-248,Turn1:240-295,Jump2:295-480,Turn2:480-530,Jump3:530-668 <br/>
+
 ## UTKA dataset 
 
 <img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/%E5%9B%BE%E7%89%8713.png" width="400" height="220" >    <img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/%E5%9B%BE%E7%89%875.gif" width="400" height="220">
