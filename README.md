@@ -58,7 +58,7 @@ Joint number -> Joint name <br/>
 # Case study
 ## Advantages 
 * Existing datasets usually store activity as a separate file. However, many files have different enclosures, resulting in many labeled files having more than one activity and only having a rough tag.
-* Visualization json file for check format.
+* Visualization json file for check format in Blender.
 
 
 ## CMU dataset 
