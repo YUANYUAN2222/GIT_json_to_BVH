@@ -49,4 +49,4 @@ Joint number -> Joint name
     18 -> LEFT_ANKLE
     19 -> RIGHT_WRIST
     20 -> RIGHT_ANKLE
-![image](https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/%E5%9B%BE%E7%89%872.gif)
+![image](https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/%E5%9B%BE%E7%89%872.gif) ![image](https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/%E5%9B%BE%E7%89%872.gif) 
