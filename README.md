@@ -58,7 +58,9 @@ Joint number -> Joint name <br/>
 ## advantages 
 Existing datasets usually store activity as a separate file. However, many files have different enclosures, resulting in many labeled files having more than one activity and only having a rough tag.
 
-### CMU dataset sample subject01-01(http://mocap.cs.cmu.edu/search.php?subjectnumber=1), rough tag: forward jump turn around.
+### CMU dataset 
+sample subject01-01(http://mocap.cs.cmu.edu/search.php?subjectnumber=1), rough tag: forward jump turn around.
+<img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/1636966822(1).jpg" >  
 left gif subject 01-01<br/>
 right gif Jump1：1-248,Turn1:240-295,Jump2:295-480,Turn2:480-530,Jump3:530-668 <br/>
 
