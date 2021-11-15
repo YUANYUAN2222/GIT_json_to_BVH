@@ -56,8 +56,11 @@ Joint number -> Joint name <br/>
 * python 3.7
 # visualization Case 
 ## Integrated skeleton data come from different dataset source 
-## * CMU dataset
-![]()
+### CMU dataset subject 01-01, label: forward jump turn around.
+left gif subject 01-01<br/>
+right gif Jump1：1-248,Turn1:240-295,Jump2:295-480,Turn2:480-530,Jump3:530-668 <br/>
+
+<img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/%E5%9B%BE%E7%89%874.gif" width="400" height="220" alt = "a">         <img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/%E5%9B%BE%E7%89%873.gif" width="400" height="220">
+## UTKA dataset                           
 
 
-![image](https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/%E5%9B%BE%E7%89%872.gif) ![image](https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/%E5%9B%BE%E7%89%872.gif) 
