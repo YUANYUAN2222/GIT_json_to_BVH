@@ -54,6 +54,7 @@ Joint number -> Joint name <br/>
 * windows 10
 * anaconda 
 * python 3.7
+* numpy
 # Case study
 ## Advantages 
 * Existing datasets usually store activity as a separate file. However, many files have different enclosures, resulting in many labeled files having more than one activity and only having a rough tag.
