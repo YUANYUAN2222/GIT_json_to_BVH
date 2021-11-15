@@ -79,6 +79,9 @@ Sample subject01-01(http://mocap.cs.cmu.edu/search.php?subjectnumber=1), rough t
 * Left picture showed the label of dataset <br/>
 * Right picture showed the motion of dataset <br/>
 
+# How to use
+
+
 
 
 
