@@ -5,13 +5,12 @@ import pdb
 import json
 '''
 把json格式的文件转为bvh格式的文件
-其中backflip文件夹中保存的的就是json file
 '''
 def mkdir_if_not_exists(path):
 	if not os.path.exists(path):
 		os.makedirs(path)
 
-fdr_path = r'./json/20nodes/backflip'
+fdr_path = r'./json/15nodes'
 save_path = fdr_path.replace('json','bvh') 
 mkdir_if_not_exists(save_path)
 files = sorted(next(os.walk(fdr_path))[2]) 
