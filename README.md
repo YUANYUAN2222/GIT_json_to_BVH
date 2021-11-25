@@ -10,46 +10,46 @@ We rewrote part of code making the original code could transform the number of 1
 Frame #, P(1),P(2),P(3),...,P(15)，<br/>
  P(i)=>(x,y,z) position of ith joint，values are in meters <br/>
 Joint number -> Joint name <br/>
-     1 -> HEAD <br/>
-     2 -> NECK <br/>
-     3 -> TORSO <br/>
-     4 -> LEFT_SHOULDER <br/>
-     5 -> LEFT_ELBOW <br/>
-     6 -> RIGHT_SHOULDER <br/>
-     7 -> RIGHT_ELBOW <br/>
-     8 -> LEFT_HIP <br/>
-     9 -> LEFT_KNEE <br/>
-    10 -> RIGHT_HIP <br/>
-    11 -> RIGHT_KNEE <br/>
-    12 -> LEFT_HAND <br/>
-    13 -> RIGHT_HAND <br/>
-    14 -> LEFT_FOOT <br/>
-    15 -> RIGHT_FOOT <br/>
+            'Head': 0,  <br/>
+            'ShoulderCenter': 1, <br/>
+            'Spine': 2, <br/>
+            'LeftShoulder': 3, <br/>
+            'LeftElbow': 4, <br/>
+            'LeftHand': 5, <br/>
+            'RightShoulder': 6, <br/>
+            'RightElbow': 7, <br/>
+            'RightHand': 8, <br/>
+            'LeftHip': 9, <br/>
+            'LeftKnee': 10, <br/>
+            'LeftFoot': 11, <br/>
+            'RightHip': 12, <br/>
+            'RightKnee': 13, <br/>
+            'RightFoot': 14, <br/>
 
 #### 20 joints Skeleton data structure   
 Frame #, P(1),P(2),P(3),...,P(20)，<br/>
  P(i) =>(x,y,z) position of ith joint，values are in meters <br/>
 Joint number -> Joint name <br/>
-     1 -> HEAD <br/>
-     2 -> SHOULDER CENTER (NECK) <br/>
-     3 -> SIPNE(TORSO) <br/>
-     4 -> LEFT_SHOULDER <br/>
-     5 -> LEFT_ELBOW <br/>
-     6 -> LEFT_HAND <br/>
-     7 -> RIGHT_ SHOULDER <br/>
-     8 -> RIGHTLEFT_ELBOW <br/>
-     9 -> RIGHT_HAND <br/>
-    10 -> LEFT_HIP <br/>
-    11 -> LEFT_KNEE <br/>
-    12 -> LEFT_FOOT <br/>
-    13 -> RIGHT_HIP <br/>
-    14 -> RIGHT_KNEE <br/>
-    15 -> RIGHT_FOOT <br/>
-    16 -> HIP CENTER <br/>
-    17 -> LEFT_WRIST <br/>
-    18 -> LEFT_ANKLE <br/>
-    19 -> RIGHT_WRIST <br/>
-    20 -> RIGHT_ANKLE <br/>
+            'Head': 0,  <br/>
+            'ShoulderCenter': 1, <br/>
+            'Spine': 2, <br/>
+            'LeftShoulder': 3, <br/>
+            'LeftElbow': 4, <br/>
+            'LeftHand': 5, <br/>
+            'RightShoulder': 6, <br/>
+            'RightElbow': 7, <br/>
+            'RightHand': 8, <br/>
+            'LeftHip': 9, <br/>
+            'LeftKnee': 10, <br/>
+            'LeftFoot': 11, <br/>
+            'RightHip': 12, <br/>
+            'RightKnee': 13, <br/>
+            'RightFoot': 14, <br/>
+            'HipCenter': 15, <br/>
+            'LeftWrist': 16, <br/>
+            'LeftAnkle': 17, <br/>
+            'RightWrist': 18, <br/>
+            'RightAnkle': 19, <br/>
 # Environment
 * windows 10
 * anaconda 
