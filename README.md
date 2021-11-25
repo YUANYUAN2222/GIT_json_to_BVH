@@ -82,9 +82,9 @@ Sample subject01-01(http://mocap.cs.cmu.edu/search.php?subjectnumber=1), rough t
 
 # How to use
 
-Please upload the json file folder to the path '.\json\20nodes', and setting the path in line 14 of main.py, like this <br/>
+Please upload the json file folder to the path '.\json\20nodes', or revise the path in line 13 of main.py, like this <br/>
 ```
-fdr_path = r'./json/20nodes/backflip'
+fdr_path = r'./json/20nodes'
 python mian.py
 ```
 
