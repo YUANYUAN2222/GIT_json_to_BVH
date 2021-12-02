@@ -63,7 +63,7 @@ Joint number -> Joint name <br/>
 
 ## CMU dataset 
 Sample subject01-01(http://mocap.cs.cmu.edu/search.php?subjectnumber=1), rough tag: forward jump turn around.
-<img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/1636967124(1).png" >  
+<img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/1638433495(1).jpg" >  
 
 <img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/%E5%9B%BE%E7%89%874.gif" width="400" height="220" >    <img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/%E5%9B%BE%E7%89%873.gif" width="400" height="220"> <br/>
 * Left picture showed the total frame motion: 1-668<br/>
