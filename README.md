@@ -71,7 +71,7 @@ Sample subject01-01(http://mocap.cs.cmu.edu/search.php?subjectnumber=1), rough t
 
 ## UTKA dataset 
 
-<img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/%E5%9B%BE%E7%89%8713.png" width="400" height="220" >    <img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/%E5%9B%BE%E7%89%875.gif" width="400" height="220"><br/>
+<img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/%E5%9B%BE%E7%89%8713.png" width="400" height="220" >    <img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/%E5%9B%BE%E7%89%874.gif" width="400" height="220"><br/>
 * Left picture showed the label of dataset. <br/>
 * Right picture showed the motion of dataset. <br/>
 
