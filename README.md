@@ -66,8 +66,8 @@ Sample subject01-01(http://mocap.cs.cmu.edu/search.php?subjectnumber=1), rough t
 <img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/CMU_01_lable.jpg" >  
 
 <img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/CMU.gif" width="400" height="220" >    <img src="https://github.com/YUANYUAN2222/GIT_json_to_BVH/blob/main/CMU_label.gif" width="400" height="220"> <br/>
-* Left picture showed the total frame motion: 1-668<br/>
-* Right picture shows the enclosured frame motion.Jump1：1-248,Turn1:240-295,Jump2:295-480,Turn2:480-530,Jump3:530-668 <br/>
+* Left picture showed the total frame motion: 1-668 frame<br/>
+* Right picture shows the enclosured frame motion.Jump1：1-248frame,Turn1:240-295frame,Jump2:295-480frame,Turn2:480-530frame,Jump3:530-668frame <br/>
 
 ## UTKA dataset 
 
